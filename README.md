@@ -1,4 +1,4 @@
-# Barber Shop
+# Barber Shop :barber:
 
 ## Landing page for WEB 
 
