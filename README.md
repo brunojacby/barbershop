@@ -4,8 +4,7 @@
 
 A page for a barber shop client, with About, Services, Gallery, Scheduling and Location sessions.
 
-## Tecnologies used
-
-> HTML
-> CSS
+## Technologies 
+•	HTML
+•	CSS
 
